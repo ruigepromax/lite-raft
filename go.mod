@@ -1,4 +1,4 @@
-module raft-lite
+module github.com/ruigepromax/lite-raft
 
 go 1.24
 
